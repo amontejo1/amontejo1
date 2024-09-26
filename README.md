@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there
 
+I'm a computer science student currently interning at NASA, passionate about solving real-world problems with machine learning and backend development.
+
+🌟 Areas of interest:
+
+- Machine Learning & AI
+- Scalable Backend Systems
+- Data Science
+- Cloud Computing
 <!--
 **amontejo1/amontejo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
