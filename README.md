@@ -1,4 +1,4 @@
-## Hi there
+## Hi there!
 
 I'm a computer science student currently interning at NASA, passionate about solving real-world problems with machine learning and backend development.
 
